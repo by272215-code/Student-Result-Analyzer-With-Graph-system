@@ -39,7 +39,8 @@ python project.py
 - Data Visualization using Matplotlib
 
 📸 Sample Visualization
-<img width="794" height="682" alt="Screenshot 2026-04-10 151042" src="https://github.com/user-attachments/assets/db69cfff-943f-49a3-b7c5-4710e2119725" />
+![Uploading Screenshot 2026-04-10 151349.png…]()
+
 
 
 📌 Conclusion
